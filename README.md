@@ -1,3 +1,3 @@
-﻿## Windows Powershell Scripts
+﻿## Windows Powershell Scripts and labs
 
 
